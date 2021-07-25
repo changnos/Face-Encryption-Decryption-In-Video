@@ -5,11 +5,10 @@ Detects and encrypts/decrypts the faces of people in the video using the image e
 ## Installation
 - [dannyi96/Image-Cryptography](https://github.com/dannyi96/Image-Cryptography)
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
----
+
 ## Encryption 
 <img src = "encrypt_flowchart.png" width = "400">
-<br/><br/>
-<img src = "after_encryption.png" width = "400">
+<img src = "after_encryption.png" width = "800">
 
 
 For every frame, the key values and encrypted images of faces are generated and stored in specific folder.
